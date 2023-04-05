@@ -3,7 +3,7 @@
 ---
 Accompanying code for [On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals]()
 
-(To appear in 2023 IEEE Global Communications Conference (GLOBECOM 2022))[[arXiv](https://arxiv.org/abs/2303.06438)]
+(To appear in 2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2023))[[arXiv](https://arxiv.org/abs/2303.06438)]
 
 Link to download trained model weights: [Dropbox Link]()
 
