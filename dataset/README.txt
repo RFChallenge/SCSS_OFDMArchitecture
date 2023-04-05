@@ -1,0 +1,1 @@
+Python scripst to generate training sets: realexpwave_gendata.py and realexpwave_diffwave_gendata.py
