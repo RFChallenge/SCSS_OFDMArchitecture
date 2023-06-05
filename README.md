@@ -1,11 +1,14 @@
 # On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals
 
 ---
-Accompanying code for [On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals]()
+Accompanying code for [On Neural Architectures for Deep Learning-based Source Separation of Co-Channel OFDM Signals](https://ieeexplore.ieee.org/document/10096702)
 
-(To appear in 2023 IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2023))[[arXiv](https://arxiv.org/abs/2303.06438)]
+Citation:
+G. C. F. Lee, A. Weiss, A. Lancho, Y. Polyanskiy and G. W. Wornell, "On Neural Architectures for Deep Learning-Based Source Separation of Co-Channel OFDM Signals," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10096702.
 
-Link to download trained model weights: [Dropbox Link]()
+ArXiv Preprint: [[arXiv](https://arxiv.org/abs/2303.06438)]
+
+Link to download trained model weights: [Dropbox Link](https://www.dropbox.com/s/xe4kb2weg67v4ra/dataset_and_models.zip?dl=0)
 
 ----
 Work motivated by the MIT-USAF AIA RF Challenge for Single-Channel Source Separation
